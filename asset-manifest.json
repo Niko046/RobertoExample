@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7BRobertoExample%7D/static/css/main.25b810ba.css",
+    "main.js": "/%7BRobertoExample%7D/static/js/main.c4a80060.js",
+    "static/media/logo.svg": "/%7BRobertoExample%7D/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/%7BRobertoExample%7D/index.html",
+    "main.25b810ba.css.map": "/%7BRobertoExample%7D/static/css/main.25b810ba.css.map",
+    "main.c4a80060.js.map": "/%7BRobertoExample%7D/static/js/main.c4a80060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b810ba.css",
+    "static/js/main.c4a80060.js"
+  ]
+}
